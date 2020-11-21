@@ -1,4 +1,4 @@
-import powerlaw as pl
+import powerlaw.powerlaw as pl
 import os
 
 dir = os.path.dirname(os.path.realpath(__file__))
