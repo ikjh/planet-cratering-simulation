@@ -8,7 +8,7 @@ code available at [github.com/ikjh/planet-cratering-simulation](github.com/ikjh/
 
 ## Assumptions
 
-The size distribution of the impactors is derived from a power law distribution with alpha = 2.5. This data was generated from the  [powerlaw python library](https://github.com/jeffalstott/powerlaw) python library, which was implemented on the basis of a paper written by Aaron Clauset, a professor at CU Boulder.
+The size distribution of the impactors is derived from a power law distribution with alpha = 2.5. This data was generated from the  [powerlaw python library](https://github.com/jeffalstott/powerlaw) which was implemented on the basis of a paper written by Aaron Clauset, a professor at CU Boulder.
 
 Craters are 500 km diameter maximum (see generate_data.py)
 
