@@ -18,19 +18,19 @@ The simulation terminates according to a threshold called "consecutive underlaps
 
 ## Sample Data
 25% complete
-<img src="img/sim_13.png" width="50%">
+<img src="img/sim_10.png" width="50%">
 
 50% complete
-<img src="img/sim_24.png" width="50%">
+<img src="img/sim_18.png" width="50%">
 
 75% complete
-<img src="img/sim_35.png" width="50%">
+<img src="img/sim_26.png" width="50%">
 
 Complete
-<img src="img/sim_46.png" width="50%">
+<img src="img/sim_34.png" width="50%">
 
 Other data:
-<img src="analyze/plot1.png">
+<img src="analyze/plot.png">
 
 On the graph above, the black arrow indicates the estimated saturation point. The jagged edges on this graph are due to the rapid deletion and addition of new craters. If a large crater impacts the surface, many smaller craters tend to be removed. After some time, the amount of visible craters tends to level off around 300-350 craters, which indicates saturation.
 
