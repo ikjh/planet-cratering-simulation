@@ -1,4 +1,4 @@
-# Crater Impact Simulation
+# planet-cratering-simulation
 
 Kyle Heinze
 
